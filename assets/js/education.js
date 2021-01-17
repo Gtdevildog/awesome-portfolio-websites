@@ -176,28 +176,28 @@ document.addEventListener("DOMContentLoaded", showCards1);
 const timeline = document.querySelector(".timeline");
 const timelinesection = [
   {
-    heading: "Massachusetts Institute of Technology",
+    heading: "Georgia Institute of Technology",
+    image: "./assets/images/education-page/timeline-1.svg",
+    subheading: "Masters in the Management of Technology, (2010)",
+    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+  },
+
+  {
+    heading: "Georgia2 Institute of Technology",
     image: "./assets/images/education-page/timeline-1.svg",
     subheading: "Bachelors of Science, Computer Science & Engineering, (2020-2024)",
     description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
   },
 
   {
-    heading: "Massachusetts Institute of Technology",
+    heading: "Georgia3 Institute of Technology",
     image: "./assets/images/education-page/timeline-1.svg",
     subheading: "Bachelors of Science, Computer Science & Engineering, (2020-2024)",
     description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
   },
 
   {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading: "Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
-  },
-
-  {
-    heading: "Massachusetts Institute of Technology",
+    heading: "Georgia4 Institute of Technology",
     image: "./assets/images/education-page/timeline-1.svg",
     subheading: "Bachelors of Science, Computer Science & Engineering, (2020-2024)",
     description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
